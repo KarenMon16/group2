@@ -1,1 +1,3 @@
-# group2
+# group
+
+improve readme git project
